@@ -1,4 +1,4 @@
-baseURL: /acme
+baseURL: "http://localhost/acme"
 languageCode: es-es
 title: Menu
 theme: Eclectic
