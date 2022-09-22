@@ -22,7 +22,7 @@ menu:
 
     - identifier: contact
       name: Contacto 
-      url: /contacto 
+      url: /contact
       weight: 200
 
     - identifier: about
