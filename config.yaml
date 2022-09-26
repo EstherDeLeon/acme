@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL: "/acme"
+=======
+baseURL: "http://localhost/acme"
+>>>>>>> 508731d5f93945e6ea344fc401f88b31daed89af
 languageCode: es-es
 title: Acme Corporation
 theme: basico
