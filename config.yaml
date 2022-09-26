@@ -1,6 +1,6 @@
-baseURL: "http://localhost/acme"
+baseURL: "/acme"
 languageCode: es-es
-title: Menu
+title: Acme Corporation
 theme: basico
 
 author: 
