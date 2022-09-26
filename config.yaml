@@ -1,7 +1,7 @@
-baseURL: /acme
+baseURL: "http://localhost/acme"
 languageCode: es-es
 title: Menu
-theme: Eclectic
+theme: basico
 
 author: 
   facebook: "https://facebook.com/example" 
