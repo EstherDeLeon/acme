@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//estherdeleon.github.io/acme/blog/</loc>
+    <lastmod>2022-09-28T18:53:31+02:00</lastmod>
+  </url><url>
+    <loc>//estherdeleon.github.io/acme/blog/posttres/</loc>
+    <lastmod>2022-09-28T18:53:31+02:00</lastmod>
+  </url><url>
+    <loc>//estherdeleon.github.io/acme/blog/postdos/</loc>
+    <lastmod>2022-09-28T18:53:23+02:00</lastmod>
+  </url><url>
+    <loc>//estherdeleon.github.io/acme/blog/postuno/</loc>
+    <lastmod>2022-09-28T18:53:08+02:00</lastmod>
+  </url><url>
     <loc>//estherdeleon.github.io/acme/viajes/</loc>
-    <lastmod>2022-09-28T10:43:53+02:00</lastmod>
+    <lastmod>2022-09-28T18:43:04+02:00</lastmod>
+  </url><url>
+    <loc>//estherdeleon.github.io/acme/viajes/puntacana/</loc>
+    <lastmod>2022-09-28T18:43:04+02:00</lastmod>
   </url><url>
     <loc>//estherdeleon.github.io/acme/viajes/paris/</loc>
     <lastmod>2022-09-28T10:43:53+02:00</lastmod>

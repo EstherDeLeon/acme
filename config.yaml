@@ -33,7 +33,7 @@ menu:
     - identifier: viajes
       name: Viajes
       url: /viajes
-      weight: 40 
+      weight: 50 
     
     - identifier: blog
       name: blog
