@@ -2,47 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pagina Principal on Acme Corporation</title>
-    <link>http://localhost/acme/</link>
+    <link>//estherdeleon.github.io/acme/</link>
     <description>Recent content in Pagina Principal on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Mon, 26 Sep 2022 09:17:40 +0200</lastBuildDate><atom:link href="http://localhost/acme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 09:17:40 +0200</lastBuildDate><atom:link href="//estherdeleon.github.io/acme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paris</title>
+      <link>//estherdeleon.github.io/acme/viajes/paris/</link>
+      <pubDate>Wed, 28 Sep 2022 10:43:53 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>//estherdeleon.github.io/acme/viajes/paris/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Contact</title>
-      <link>http://localhost/acme/contact/</link>
+      <link>//estherdeleon.github.io/acme/contact/</link>
       <pubDate>Thu, 22 Sep 2022 13:53:46 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://localhost/acme/contact/</guid>
+      <guid>//estherdeleon.github.io/acme/contact/</guid>
       <description>erltgkmeorgmwò </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost/acme/about/</link>
+      <link>//estherdeleon.github.io/acme/about/</link>
       <pubDate>Thu, 22 Sep 2022 13:26:53 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://localhost/acme/about/</guid>
+      <guid>//estherdeleon.github.io/acme/about/</guid>
       <description>Acerca de &amp;ldquo;http://localhost/acme&amp;rdquo; &amp;ldquo;/acme&amp;rdquo; &amp;ldquo;http://localhost&amp;rdquo;
 &amp;raquo;&amp;raquo;&amp;raquo;&amp;gt; 508731d5f93945e6ea344fc401f88b31daed89af &amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD </description>
     </item>
     
     <item>
       <title>Pirineo</title>
-      <link>http://localhost/acme/viajes/pirineo/</link>
+      <link>//estherdeleon.github.io/acme/viajes/pirineo/</link>
       <pubDate>Wed, 21 Sep 2022 08:55:06 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://localhost/acme/viajes/pirineo/</guid>
+      <guid>//estherdeleon.github.io/acme/viajes/pirineo/</guid>
       <description>Pirineos Más de 400 son los kilómetros por los que se extienden los Pirineos entre Navarra, Aragón y Cataluña. Actuando como frontera natural entre España y el resto de Europa, esta cordillera discurre de manera horizontal al norte del país. Altas montañas – con más de 200 por encima de los 3.000 metros de altitud-, una abundante vegetación, numerosos ríos y muchos, muchos pueblos que se asientan sobre sus laderas te brindarán la posibilidad de descubrir una forma de vida única.</description>
     </item>
     
     <item>
       <title>Curriculum</title>
-      <link>http://localhost/acme/curriculum/</link>
+      <link>//estherdeleon.github.io/acme/curriculum/</link>
       <pubDate>Wed, 21 Sep 2022 08:53:57 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://localhost/acme/curriculum/</guid>
+      <guid>//estherdeleon.github.io/acme/curriculum/</guid>
       <description>Mi curriculum </description>
     </item>
     
