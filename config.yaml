@@ -1,4 +1,4 @@
-baseURL: "/acme"
+baseURL: "//estherdeleon.github.io/acme/"
 languageCode: es-es
 title: Acme Corporation
 theme: basico
