@@ -32,7 +32,8 @@ menu:
 
     - identifier: viajes
       name: Viajes
-      url: /viajes
+      url: /viajes/pirineo/
+      url: /viajes/paris/
       weight: 40 
 params: 
   colorPickerEnabled: true
