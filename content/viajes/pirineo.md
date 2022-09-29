@@ -2,6 +2,9 @@
 title: "Pirineo"
 date: 2022-09-21T08:55:06+02:00
 draft: false
+lat: 42.7003047
+lon: 0.1390314
+mensaje: "Pirineo Aragones"
 ---
 
 ## Pirineos
