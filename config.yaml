@@ -33,7 +33,12 @@ menu:
     - identifier: viajes
       name: Viajes
       url: /viajes
-      weight: 40 
+      weight: 50 
+    
+    - identifier: blog
+      name: blog
+      url: /blog
+      weight: 35
 params: 
   colorPickerEnabled: true
   color: "#4f46e5"
