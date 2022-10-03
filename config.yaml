@@ -40,11 +40,21 @@ menu:
       url: /blog
       weight: 35
 
-     - identifier: tv
+    - identifier: tv
       name: Canales 
       url: /television
       pageRef: tv
       weight: 500 
+
+    - identifier: Peliculas
+      name: Peliculas
+      url: /peliculas
+      weight: 500 
+  
+    - identifier: Contribuidores
+      name: Contribuidores
+      url: /contribuidores
+      weight: 40
 
 
 params: 

@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+    {{ .Content }}
+
+    <h2>Contribuidores</h2>
+    <div class="col-md-3">
+        {{ range .Site.Data.contri }}
+        <a href="{{ .url }}">
+            <img src="{{ .avatar_url }}" alt="{{ .login }}" width="50">
+        </a>
+        {{ end }}
+    </div>
+    {{ end }}

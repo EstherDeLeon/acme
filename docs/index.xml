@@ -10,6 +10,33 @@
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     <lastBuildDate>Mon, 26 Sep 2022 09:17:40 +0200</lastBuildDate><atom:link href="//estherdeleon.github.io/acme/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Instis</title>
+      <link>//estherdeleon.github.io/acme/institutos/instis/</link>
+      <pubDate>Mon, 03 Oct 2022 11:00:31 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>//estherdeleon.github.io/acme/institutos/instis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribuidores</title>
+      <link>//estherdeleon.github.io/acme/contribuidores/contri/</link>
+      <pubDate>Mon, 03 Oct 2022 10:35:38 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>//estherdeleon.github.io/acme/contribuidores/contri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masvaloradas</title>
+      <link>//estherdeleon.github.io/acme/peliculas/masvaloradas/</link>
+      <pubDate>Mon, 03 Oct 2022 09:36:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>//estherdeleon.github.io/acme/peliculas/masvaloradas/</guid>
+      <description>Películas más valoradas Datos de imbd.com</description>
+    </item>
+    
+    <item>
       <title>Tv</title>
       <link>//estherdeleon.github.io/acme/television/</link>
       <pubDate>Thu, 29 Sep 2022 12:16:12 +0200</pubDate>
