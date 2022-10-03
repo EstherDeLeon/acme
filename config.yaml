@@ -39,6 +39,14 @@ menu:
       name: blog
       url: /blog
       weight: 35
+
+     - identifier: tv
+      name: Canales 
+      url: /television
+      pageRef: tv
+      weight: 500 
+
+
 params: 
   colorPickerEnabled: true
   color: "#4f46e5"
