@@ -42,7 +42,7 @@ menu:
 
     - identifier: tv
       name: Canales 
-      url: /television
+      url: /canales
       pageRef: tv
       weight: 500 
 
@@ -58,7 +58,7 @@ menu:
 
     - identifier: Institutos
       name: Institutos
-      url: /institutos
+      url: /instis
       weight: 40
 
 
