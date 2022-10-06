@@ -56,6 +56,11 @@ menu:
       url: /contribuidores
       weight: 40
 
+    - identifier: Institutos
+      name: Institutos
+      url: /institutos
+      weight: 40
+
 
 params: 
   colorPickerEnabled: true
