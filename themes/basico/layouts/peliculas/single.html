@@ -1,20 +1,25 @@
 {{ define "main" }}
 <div class="container">
-<h1 class="titulo">{{ .Title }}</h1>
-{{ .Content }}
+  <h1 class="titulo">{{ .Title }}</h1>
+  {{ .Content }}
 
+  <h2>Peliculas</h2>
+  <div class="col-md-8">
+    <table class="table">
+      {{ range .Site.Data.datos_pelis }}
+      <tr>
+        <td><img src="{{ .img }}" alt="Imagen de{{ .titulo}}" /></td>
+      </tr>
+      <tr>
+        <td>
+          {{ .ranking }}.<a href="https://imdb.com/{{ .url }}">{{ .titulo }}</a
+          >({{ .year }})
+        </td>
+        <td>Puntuación: {{ .rating }}</td>
+      </tr>
 
-<h2>Datos tv</h2>
-<ul class="list-group">
-{{ range .Site.Data.tv }}
-    {{ if eq .name "Deportivos" }}
-    <li class="list-group-item">{{ .name }}</li>
-    {{ range .channels }}
-     <a href="{{ .web }}">
-            <img class="img-fluid" src="{{ .logo }}" alt="{{ .name }}"></a>
-    {{ end }}   
-    {{ end }}
-{{ end }}
-</ul>
+      {{ end }}
+    </table>
+  </div>
 </div>
 {{ end }}

@@ -42,7 +42,7 @@ menu:
 
     - identifier: tv
       name: Canales 
-      url: /canales
+      url: /Canales
       pageRef: tv
       weight: 500 
 
